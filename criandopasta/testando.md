@@ -1,3 +1,0 @@
-##lorem ispon##
-
-dolaor comit
